@@ -327,18 +327,7 @@ Possible future improvements include:
 
 ---
 
-## 📸 Screenshots
-
 Screenshots can be added here to demonstrate the application interface.
-
-Recommended screenshots include:
-
-1. Login page
-2. Home page
-3. Resume upload page
-4. Job description input page
-5. Resume analysis page
-6. ATS score/result dashboard
 
 ## 📸 Screenshots
 
