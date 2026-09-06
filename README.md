@@ -99,9 +99,6 @@ AI-Resume-Analyzer/
 ├── src/
 │   └── ... frontend source files
 │
-├── public/
-│   └── ... public assets
-│
 ├── package.json
 ├── package-lock.json
 ├── README.md
